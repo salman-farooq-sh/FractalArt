@@ -22,3 +22,4 @@ java Main
 
 ### Sierpinski
 ![Demo of the Sierpinski Fractal](demo_gifs/sierpinski.gif)
+_The circular slider has been custom made from scratch._
